@@ -1,0 +1,14 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/East_Antrim_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q751620",
+    "start": "1993",
+    "end": "9999"
+  }, {
+    "id": "Q43021337",
+    "start": "1885",
+    "end": "1922"
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "Northern Irish election candidate"
+}
